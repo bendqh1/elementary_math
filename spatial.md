@@ -4,8 +4,6 @@
 |------------------------------|--------------------------|
 | Mathematics                  | คณิตศาสตร์               |
 | Arithmetic                   | เลขคณิต                  |
-| History of Mathematics       | ประวัติศาสตร์ของคณิตศาสตร์ |
-| Philosophy of Mathematics    | ปรัชญาของคณิตศาสตร์       |
 | Elementary statistics        | สถิติ เบื้องต้น           |
 
 ## Background terms 2
@@ -19,7 +17,7 @@
 | From up to down       | จากข้างบนสู่ข้างล่าง         |
 | Right                 | ขวา                     |
 | Right and left        | ซ้าย                     |
-| From right to left    | จากซ้ายไปขวา             |
+| From right to left    | จากขวาไปซ้าย             |
 | Straight              | ตรงไป                   |
 | Reverse               | ย้อนกลับ                |
 | Right                 | ทางขวา                 |
@@ -40,7 +38,7 @@
 |-------------------------------|-------------------|
 | Elementary geometrics (Euclid geometrics) | เรขาคณิต เบื้องต้น (เรขาคณิต ยูคลิด) |
 | Flat surface   | พื้นผิวเรียบ |
-| Curved surface | พื้นผิวโค้ง  |
+| Sloped surface | พื้นผิวลาดเอียง  |
 | Straight line                 | เส้นตรง            |
 | Curved line                   | เส้นโค้ง            |
 | Diagonal straight line        | เส้นทแยงตรง        |
@@ -60,13 +58,19 @@
 
 | English    | Thai              |
 |------------|-------------------|
+| Shape | รูปร่าง
 | Point      | จุด               |
 | Circle     | วงกลม             |
 | Sphere     | ทรงกลม            |
+| Oval       | รูปทรงวงรี |
 | Square     | สี่เหลี่ยมจัตุรัส |
 | Squared    | ยกกำลังสอง        |
 | Rectangle  | สี่เหลี่ยมผืนผ้า  |
 | Triangle   | สามเหลี่ยม        |
+| Rhombus    | รูปสี่เหลี่ยมขนมเปียกปูน |
+| Ramp | ทางลาด |
+| Checkmark | เครื่องหมายถูก |
+| Plus sign | เครื่องหมายบวก |
 
 ## Elementary geometrics 3
 
@@ -81,15 +85,16 @@
 | Three dimensions                | สามมิติ                      |
 | Symmetrical                                                             | สมมาตร                                    |
 | Asymmetrical                                                            | ไม่สมมาตร                                 |
-| The human body is symmetric from top to bottom but not right to left     | ร่างกายมนุษย์มีความสมมาตรจากบนลงล่าง แต่ไม่สมมาตรจากขวาไปซ้าย |
+| The human body is symmetric from right to left but not from top to bottom | ร่างกายมนุษย์มีความสมมาตรจากขวาไปซ้าย แต่ไม่ใช่จากบนลงล่าง |
 
 ## Elementary geometrics 4
 
 | English                                                                 | Thai                                                                 |
 |-------------------------------------------------------------------------|----------------------------------------------------------------------|
-| Rotation is not a flip                                                   | การหมุนไม่ใช่การพลิก                                                 |
+| A spinning ball is not a rolling ball                                   | ทรงกลมหมุนไม่ใช่ทรงกลมกลิ้ง                                                 |
 | Horizontal flip                                                         | การพลิกในแนวนอน                                                     |
 | Vertical flip                                                           | การพลิกในแนวตั้ง                                                     |
+| Rotation is not a flip                                                  | การหมุนไม่ใช่การพลิก                                                 |
 | A mirror reverses depth (front–back) relative to its surface, not inherently left–right or up–down | กระจกสะท้อนกลับความลึก (หน้า–หลัง) เมื่อเทียบกับผิวกระจก ไม่ได้กลับซ้าย–ขวาหรือบน–ล่างโดยตรง |
 
 ## Elementary geometrics 5
@@ -104,12 +109,16 @@
 | Two points                      | สองจุด                        |
 | Three or more points            | สามจุดขึ้นไป                  |
 | Polysegment                     | เส้นหลายช่วง                  |
-| Polygon                         | รูปหลายเหลี่ยม               |
+| Straight open polysegment | เส้นหักเปิด |
+| Straight closed polysegment (polygon) | เส้นหักปิด (รูปหลายเหลี่ยม) |
+| Curved open polysegment | เส้นโค้งประกอบเปิด |
+| Curved closed polysegment | เส้นโค้งประกอบปิด |
 | Non dimensional object (point)  | วัตถุไม่มีมิติ (จุด)          |
 | Unidimensional object           | วัตถุหนึ่งมิติ                |
 | Two dimensional object          | วัตถุสองมิติ                  |
 | Three dimensional object        | วัตถุสามมิติ                  |
 | A side (צלע)                    | ด้าน                          |
+| Vertex (קודקוד ממנו יוצאים שני קווים)                 | จุดยอด                          |
 
 ## Elementary geometrics 6
 
@@ -122,3 +131,8 @@
 | A specific ordinate a (on the X-axis)                                   | ค่าพิกัด a บนแกน X                        |
 | A specific ordinate b (on the Y-axis)                                   | ค่าพิกัด b บนแกน Y                        |
 | A coordinate as the point of intersection of ordinate a and ordinate b  | พิกัดซึ่งเป็นจุดตัดของพิกัด a และพิกัด b |
+| Intersection (cutting point) | จุดตัด |
+
+## Elementary geometrics 7
+
+Meters, inches and measurement.
