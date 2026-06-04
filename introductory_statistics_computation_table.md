@@ -11,9 +11,8 @@
 | Σ | Σ | 1   |   | Σ  | Σ  | Σ   |    | 0    |         | Σ        | 0 |
 ```
 
-Column descriptions:
+## Column descriptions:
 
-```markdown
 - X – Observation value (raw score).
 - f – Frequency.
 - f/n – Relative frequency.
@@ -26,12 +25,9 @@ Column descriptions:
 - (X−X̄)² – Squared deviation from the mean.
 - f(X−X̄)² – Frequency-weighted squared deviation; used to compute variance and standard deviation.
 - Z – Standard score (z-score).
-```
-````
 
 ### Hebrew translation of the above terms
 
-```markdown
 - X – ערך המשתנה.
 - f – שכיחות.
 - f/n – שכיחות יחסית.
@@ -44,4 +40,3 @@ Column descriptions:
 - (X−X̄)² – ריבוע הסטייה.
 - f(X−X̄)² – לחישוב שונות וסטיית תקן.
 - Z – ציון תקן.
-```
