@@ -50,6 +50,12 @@
 | Cross | กากบาท |
 | Axis   | แกน    |
 | Simple rotation (without degrees)| การหมุนอย่างง่าย (ไม่ระบุองศา) |
+| Clock anatomy           | ส่วนประกอบของนาฬิกา        |
+| Clock markings          | เครื่องหมายบนหน้าปัดนาฬิกา |
+| Clock face              | หน้าปัดนาฬิกา              |
+| Short hand (hour hand)  | เข็มสั้น (เข็มชั่วโมง)     |
+| Long hand (minute hand) | เข็มยาว (เข็มนาที)         |
+| Seconds hand             | เข็มวินาที                 |
 | Clockwise             | ตามเข็มนาฬิกา            |
 | Counter clockwise     | ทวนเข็มนาฬิกา            |
 | Separation | การแยก      |
