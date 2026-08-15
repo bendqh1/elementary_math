@@ -43,6 +43,8 @@
 | Curved line                   | เส้นโค้ง            |
 | Diagonal straight line        | เส้นทแยงตรง        |
 | Diagonal curved line          | เส้นทแยงโค้ง        |
+| Diagonally          | อยู่เนื้องๆ        |
+| Not straight (curved or diagonal)          | งอ        |
 | Horizontal line (any kind)    | เส้นแนวนอน          |
 | Vertical line (any kind)      | เส้นแนวตั้ง          |
 | Parallel lines                | เส้นขนาน          |
