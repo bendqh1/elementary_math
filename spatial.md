@@ -73,6 +73,7 @@
 | Shape      | รูปร่าง
 | Point      | จุด               |
 | Circle     | วงกลม             |
+| Surround   | ล้อม (as in นั่งล้อมวง) |
 | Sphere     | ทรงกลม            |
 | Oval       | รูปทรงวงรี |
 | Square     | สี่เหลี่ยมจัตุรัส |
