@@ -31,6 +31,10 @@
 | East                  | ทิศตะวันออก              |
 | South                 | ทิศใต้                   |
 | West                  | ทิศตะวันตก               |
+| Northeast                 | ทิศตะวันออกเฉียงเหนือ                 |
+| Northwest                  | ทิศตะวันตกเฉียงเหนือ              |
+| Southeast                 | ทิศตะวันออกเฉียงใต้                   |
+| Southwest                  | ทิศตะวันตกเฉียงใต้               |
 
 ## Elementary geometrics 1
 
@@ -66,7 +70,7 @@
 
 | English    | Thai              |
 |------------|-------------------|
-| Shape | รูปร่าง
+| Shape      | รูปร่าง
 | Point      | จุด               |
 | Circle     | วงกลม             |
 | Sphere     | ทรงกลม            |
@@ -74,6 +78,7 @@
 | Square     | สี่เหลี่ยมจัตุรัส |
 | Squared    | ยกกำลังสอง        |
 | Rectangle  | สี่เหลี่ยมผืนผ้า  |
+| Rectangle  | ลูกบาศก์ |
 | Triangle   | สามเหลี่ยม        |
 | Rhombus    | รูปสี่เหลี่ยมขนมเปียกปูน |
 | Ramp | ทางลาด |
@@ -86,11 +91,13 @@
 |-------------------------------------------------------------------------|-------------------------------------------|
 | Width                           | ความกว้าง                    |
 | Height                          | ความสูง                      |
+| latitude                        | ละติจูด                       |
+| longitude                       | ลองจิจูด                      |
 | Thickness (depth)               | ความหนา (ความลึก)            |
 | Volume                          | ปริมาตร                       |
-| Dimension                       | มิติ                          |
-| Two dimensions                  | สองมิติ                      |
-| Three dimensions                | สามมิติ                      |
+| Dimension                       | มิติ                           |
+| Two dimensions                  | สองมิติ                        |
+| Three dimensions                | สามมิติ                        |
 | Symmetrical                                                             | สมมาตร                                    |
 | Asymmetrical                                                            | ไม่สมมาตร                                 |
 | The human body is symmetric from right to left but not from top to bottom | ร่างกายมนุษย์มีความสมมาตรจากขวาไปซ้าย แต่ไม่ใช่จากบนลงล่าง |
@@ -126,7 +133,9 @@
 | Two dimensional object          | วัตถุสองมิติ                  |
 | Three dimensional object        | วัตถุสามมิติ                  |
 | A side (צלע)                    | ด้าน                          |
-| Vertex (קודקוד ממנו יוצאים שני קווים)                 | จุดยอด                          |
+| Edge                             | ริม                          |
+| Vertex (קודקוד ממנו יוצאים שני קווים)                 | จุดยอด |
+| Vertex (קודקוד ממנו יוצאים שני קווים)                 | จุดยอด |
 
 ## Elementary geometrics 6
 
