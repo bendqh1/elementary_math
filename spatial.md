@@ -41,17 +41,20 @@
 | English                       | Thai              |
 |-------------------------------|-------------------|
 | Elementary geometrics (Euclid geometrics) | เรขาคณิต เบื้องต้น (เรขาคณิต ยูคลิด) |
+| Stands | ตั้ง |
+| Lays | นอน |
 | Flat surface   | พื้นผิวเรียบ |
 | Sloped surface | พื้นผิวลาดเอียง  |
 | Straight line                 | เส้นตรง            |
 | Curved line                   | เส้นโค้ง            |
-| Diagonal straight line        | เส้นทแยงตรง        |
+| Diagonal straight line        | เส้นทแยงตรง or เส้นทแยงมุม |
 | Diagonal curved line          | เส้นทแยงโค้ง        |
 | Diagonally          | อยู่เนื้องๆ        |
 | Not straight (curved or diagonal)          | งอ        |
 | Horizontal line (any kind)    | เส้นแนวนอน          |
 | Vertical line (any kind)      | เส้นแนวตั้ง          |
 | Parallel lines                | เส้นขนาน          |
+| Overlapping | ทับซ้อน |
 | Perpendicular straight lines  | เส้นตั้งฉาก        |
 | Cross | กากบาท |
 | Axis   | แกน    |
