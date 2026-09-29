@@ -18,3 +18,4 @@
 | Dividing numbers      | การหารจำนวน          |
 | Multiplying numbers   | การคูณจำนวน          |
 | Accumulate            | สะสม                 |
+| Result                | ผล                  |
