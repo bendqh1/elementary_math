@@ -1,4 +1,4 @@
-The decimal `0.33` is not equal to one third:
+The decimal `0.33` is not equal to one third.
 
 $$
 \frac{1}{3} = 0.\overline{3} \neq 0.33
