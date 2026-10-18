@@ -1,0 +1,12 @@
+SC and VAT
+
+```text
+5% service charge: 200 × 1.05 × 1.07 = ฿224.70
+10% service charge: 200 × 1.10 × 1.07 = ฿235.40
+```
+
+Forumla
+
+```text
+Total=Base price×(1+service)×1.07
+```
